@@ -1,0 +1,11 @@
+{
+  "name": "shared",
+  "description": "Shared components",
+  "type": "library",
+  "scripts": {
+        "test": [
+            "@composer install",
+            "phpunit"
+        ]
+    }
+}
